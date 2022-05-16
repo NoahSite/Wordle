@@ -8,13 +8,18 @@ body{
 }
 
 .game-board {
+  width: 100%;
   display: flex;
   align-items: center;
   flex-direction: column;
 }
 
-.whole-thing {
-	align-items:center;
+#wrapper{
+	width: 268px;
+	margin:0px auto;
+	text-align: center;
+	background-color:orange;
+	
 }
 
 .letter-box {
