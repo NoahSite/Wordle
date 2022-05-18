@@ -21,7 +21,7 @@ body {
 		width: 268px;
 		margin: 0px auto;
 		text-align: center;
-		background-color: black;
+		background-color: white;
 		overflow: auto;
 }
 
@@ -100,10 +100,6 @@ body {
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
- 
- .mySidenav{ 
-	color: white;	 
-}
 
  .sidenav {
   height: 100%;
