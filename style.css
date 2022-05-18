@@ -19,7 +19,7 @@ body {
 }
 
 .textarea{
-	align-items: right;
+	position: right;
 }
 
 #wrapper{
