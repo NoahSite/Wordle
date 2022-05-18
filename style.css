@@ -18,6 +18,10 @@ body {
 
 }
 
+.textarea{
+	align-items: right;
+}
+
 #wrapper{
 	width: 268px;
 	margin: 0px auto;
